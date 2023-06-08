@@ -1,6 +1,7 @@
 # Hotel Reservation System
 
 The Hotel Reservation System is a Python project that allows users to book hotels and spa packages using a command-line interface. It utilizes data from CSV files to manage hotel information, credit card validation, and booking reservations.
+![Hotel Reservation System](https://i.ibb.co/0YQ0348/Hotel-Reservation-System-1.png)
 
 ## Prerequisites
 
